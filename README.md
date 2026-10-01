@@ -1,0 +1,2 @@
+# LOGISTICS-DELIVERY-TIME-PREDICTION-SYSTEM-USING-ROUTE-OPTIMIZATION-TRAFFIC-CONDITIONS.
+Efficient delivery time estimation is essential for logistics companies to improve customer satisfaction and operational efficiency. Traditional delivery planning often relies on fixed schedules and historical averages, making it difficult to account for dynamic factors such as traffic congestion, route changes, weather conditions.
